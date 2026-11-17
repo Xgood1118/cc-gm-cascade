@@ -1,0 +1,209 @@
+{
+  "blend_fraction": 0.1,
+  "cascades": [
+    {
+      "blend": {
+        "end": 12.134303675521409,
+        "samples": [
+          {
+            "depth": 10.018975734517515,
+            "weight_next": 0.0,
+            "weight_sum": 1.0,
+            "weight_this": 1.0
+          },
+          {
+            "depth": 10.547807719768489,
+            "weight_next": 0.1562500000000005,
+            "weight_sum": 1.0,
+            "weight_this": 0.8437499999999996
+          },
+          {
+            "depth": 11.076639705019462,
+            "weight_next": 0.5,
+            "weight_sum": 1.0,
+            "weight_this": 0.5
+          },
+          {
+            "depth": 11.605471690270434,
+            "weight_next": 0.8437499999999994,
+            "weight_sum": 1.0,
+            "weight_this": 0.15625000000000056
+          },
+          {
+            "depth": 12.134303675521409,
+            "weight_next": 1.0,
+            "weight_sum": 1.0,
+            "weight_this": 0.0
+          }
+        ],
+        "start": 10.018975734517515
+      },
+      "far": 11.082748440904181,
+      "index": 0,
+      "near": 0.4957799861727873,
+      "resolution": 1024,
+      "snap_error_texels": {
+        "far_before": -0.591430333301787,
+        "far_residual": 0.0,
+        "near_before": 0.40856966669811356,
+        "near_residual": 0.0
+      },
+      "texel_world": 0.010328749711933068,
+      "world_precision": 0.010328749711933068
+    },
+    {
+      "blend": {
+        "end": 24.50834145568327,
+        "samples": [
+          {
+            "depth": 22.066213864653488,
+            "weight_next": 0.0,
+            "weight_sum": 1.0,
+            "weight_this": 1.0
+          },
+          {
+            "depth": 22.67674576241093,
+            "weight_next": 0.15624999999999917,
+            "weight_sum": 1.0,
+            "weight_this": 0.8437500000000009
+          },
+          {
+            "depth": 23.287277660168378,
+            "weight_next": 0.5,
+            "weight_sum": 1.0,
+            "weight_this": 0.5
+          },
+          {
+            "depth": 23.897809557925825,
+            "weight_next": 0.843750000000001,
+            "weight_sum": 1.0,
+            "weight_this": 0.156249999999999
+          },
+          {
+            "depth": 24.50834145568327,
+            "weight_next": 1.0,
+            "weight_sum": 1.0,
+            "weight_this": 0.0
+          }
+        ],
+        "start": 22.066213864653488
+      },
+      "far": 23.2884530531307,
+      "index": 1,
+      "near": 11.065890646853706,
+      "resolution": 1024,
+      "snap_error_texels": {
+        "far_before": -0.09856998445411591,
+        "far_residual": 0.0,
+        "near_before": 0.9014300155457704,
+        "near_residual": 0.0
+      },
+      "texel_world": 0.011924451128075114,
+      "world_precision": 0.011924451128075114
+    },
+    {
+      "blend": {
+        "end": 43.111531388170846,
+        "samples": [
+          {
+            "depth": 39.507121619443126,
+            "weight_next": 0.0,
+            "weight_sum": 1.0,
+            "weight_this": 1.0
+          },
+          {
+            "depth": 40.408224061625056,
+            "weight_next": 0.15625,
+            "weight_sum": 1.0,
+            "weight_this": 0.84375
+          },
+          {
+            "depth": 41.309326503806986,
+            "weight_next": 0.5,
+            "weight_sum": 1.0,
+            "weight_this": 0.5
+          },
+          {
+            "depth": 42.210428945988916,
+            "weight_next": 0.84375,
+            "weight_sum": 1.0,
+            "weight_this": 0.15625
+          },
+          {
+            "depth": 43.111531388170846,
+            "weight_next": 1.0,
+            "weight_sum": 1.0,
+            "weight_this": 0.0
+          }
+        ],
+        "start": 39.507121619443126
+      },
+      "far": 41.32399480943696,
+      "index": 2,
+      "near": 23.28434630872449,
+      "resolution": 1024,
+      "snap_error_texels": {
+        "far_before": -0.8334426954124865,
+        "far_residual": 0.0,
+        "near_before": 0.1665573045875135,
+        "near_residual": 0.0
+      },
+      "texel_world": 0.017599657073865828,
+      "world_precision": 0.017599657073865828
+    },
+    {
+      "blend": {
+        "end": 83.8690673496193,
+        "samples": [
+          {
+            "depth": 76.1309326503807,
+            "weight_next": 0.0,
+            "weight_sum": 1.0,
+            "weight_this": 1.0
+          },
+          {
+            "depth": 78.06546632519036,
+            "weight_next": 0.15625000000000105,
+            "weight_sum": 1.0,
+            "weight_this": 0.8437499999999989
+          },
+          {
+            "depth": 80.0,
+            "weight_next": 0.5,
+            "weight_sum": 1.0,
+            "weight_this": 0.5
+          },
+          {
+            "depth": 81.93453367480964,
+            "weight_next": 0.843749999999999,
+            "weight_sum": 1.0,
+            "weight_this": 0.156250000000001
+          },
+          {
+            "depth": 83.8690673496193,
+            "weight_next": 1.0,
+            "weight_sum": 1.0,
+            "weight_this": 0.0
+          }
+        ],
+        "start": 76.1309326503807
+      },
+      "far": 80.02621725091485,
+      "index": 3,
+      "near": 41.297759893885704,
+      "resolution": 1024,
+      "snap_error_texels": {
+        "far_before": -0.6938743245045771,
+        "far_residual": 0.0,
+        "near_before": 0.30612567549519554,
+        "near_residual": 0.0
+      },
+      "texel_world": 0.03778386083612599,
+      "world_precision": 0.03778386083612599
+    }
+  ],
+  "far": 80.0,
+  "lambda": 0.5,
+  "levels": 4,
+  "near": 0.5
+}
