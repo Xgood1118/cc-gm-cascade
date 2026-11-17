@@ -1,1 +1,1 @@
-"""级联阴影分割"""
+from .core import *  # noqa: F401,F403
