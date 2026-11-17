@@ -13,11 +13,6 @@ class Cascade:
     resolution: int = 1024
 
 
-def Cascade:
-    """class"""
-    raise NotImplementedError("Cascade 尚未实现")
-
-
 def split_cascades(near, far, levels):
     """切分"""
     raise NotImplementedError("split_cascades 尚未实现")
